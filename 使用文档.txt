@@ -1,0 +1,6 @@
+请参照
+1、src/dbinfo.properties创建数据库
+并该修改文件中的root&password
+
+2、com.gc.model包 创建表
+
